@@ -60,18 +60,13 @@ Built with modern web technologies, it is fast, responsive, and optimized for re
 
  
 
+ ![Screenshot 2025-04-29 032016](https://github.com/user-attachments/assets/9cd74766-07ed-4903-86f8-79c5189a6c1c)
+
+ ![Screenshot 2025-04-29 032057](https://github.com/user-attachments/assets/95dc02c8-e556-4acf-acdc-c20c9e0b254b)
+
+![Screenshot 2025-04-29 032110](https://github.com/user-attachments/assets/8e57dfce-befc-439a-8ce1-2ae74ed5fa06)
+
  
-[Landing Page] (https://github.com/user-attachments/assets/7aa91e81-2540-420e-a767-92fd27a00718)
-
-
-![Features](https://github.com/user-attachments/assets/489c55f8-524e-4b91-9446-cc70c3cd8c5c)
-
- ![Screenshot 2025-04-29 032040](https://github.com/user-attachments/assets/1bb7f858-9de3-4139-a1b0-97d71cddd8c8)
-
-
-![Screenshot 2025-04-29 032110](https://github.com/user-attachments/assets/bdcfde3f-b79b-4339-8bfe-6c83a2af7dd6)
-
----
 
 ## About Me
 
